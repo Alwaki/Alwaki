@@ -1,7 +1,7 @@
-### Hi
-<p align="center">
-![plot](car.JPG)
-</p>
+### Welcome!
+My name is Alex. This Github mostly contains random engineering projects, and various code concerning Robotics or Physics.
+![plot](car.JPG "hi")
+
 
 
 <!--
