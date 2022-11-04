@@ -1,6 +1,7 @@
-### Hi there 👋
-
+### 
+<p align="center">
 ![plot](car.JPG)
+</p>
 
 
 <!--
