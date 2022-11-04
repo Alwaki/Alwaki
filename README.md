@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/Alwaki/Alwaki/car.jpg?raw=true)
+![plot](car.jpg)
 
 
 <!--
