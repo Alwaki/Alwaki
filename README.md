@@ -1,6 +1,6 @@
 ### Welcome!
 My name is Alex. This Github mostly contains random engineering projects, and various code concerning Robotics or Physics.
-![plot](car.JPG "hi")
+![plot](car.JPG "LiDAR capture from DJI Matrice 300")
 
 
 
