@@ -1,5 +1,9 @@
 ### Welcome!
-My name is Alex. This Github mostly contains random engineering projects, and various code concerning Robotics or Physics.
+This Github page belongs to the village idiot known as Alex. 
+It mostly contains random engineering projects, and various code concerning Robotics or Physics.
+Here is a picture of a colleague and I, captured by LiDAR from a drone :)
+
+
 ![plot](car.JPG "LiDAR capture from DJI Matrice 300")
 
 
