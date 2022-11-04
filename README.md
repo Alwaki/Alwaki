@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![plot](car.jpg)
+![plot](car.JPG)
 
 
 <!--
