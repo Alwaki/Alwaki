@@ -1,6 +1,5 @@
 ### Welcome!
-This Github page belongs to the village idiot known as Alex. 
-It mostly contains random engineering projects, and various code concerning robotics, mechatronics or physics.
+I'm Alex, I do some coding stuff every now and then. This github mostly contains random engineering projects, and various code concerning robotics, mechatronics or physics.
 Here is a picture of a colleague and I, captured by LiDAR from a drone :)
 
 
