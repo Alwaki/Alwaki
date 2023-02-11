@@ -1,11 +1,3 @@
-### Welcome!
-I'm Alex, I do some coding stuff every now and then. This github mostly contains random engineering projects, and various code concerning robotics, mechatronics or physics.
-Here is a picture of a colleague and I, captured by LiDAR from a drone :)
-
-
-![plot](car.JPG "LiDAR capture from DJI Matrice 300")
-
-
 
 <!--
 **Alwaki/Alwaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
