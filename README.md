@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander W. Kiessling. I am a fledgling robotics engineer / researcher.
+My name is Alexander W. Kiessling. I enjoy working with robotics!
 
 <!--
 **Alwaki/Alwaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
